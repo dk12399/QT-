@@ -1,0 +1,10 @@
+release/helpwindow.o
+release/main.o
+release/mainwindow.o
+release/mutiwindow.o
+release/singlewindow.o
+release/qrc_material.o
+release/moc_helpwindow.o
+release/moc_mainwindow.o
+release/moc_mutiwindow.o
+release/moc_singlewindow.o

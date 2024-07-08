@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/othello.png</file>
+        <file>D:/Google/Download/othello_cover_final1.png</file>
+        <file>D:/Google/Download/othello_cover_final2.png</file>
+    </qresource>
+</RCC>

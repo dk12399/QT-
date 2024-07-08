@@ -1,0 +1,10 @@
+debug/helpwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/mutiwindow.o
+debug/singlewindow.o
+debug/qrc_material.o
+debug/moc_helpwindow.o
+debug/moc_mainwindow.o
+debug/moc_mutiwindow.o
+debug/moc_singlewindow.o
